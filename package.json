@@ -1,0 +1,9 @@
+{
+  "name": "country-options",
+  "version": "0.6.2",
+  "description": "Provide global country news, including country name, flag, abbreviation, area code. And keep it updated.",
+  "main": "index.js",
+  "repository": "https://github.com/jasoncoke/country-options.git",
+  "author": "jasonCoke",
+  "license": "MIT"
+}
